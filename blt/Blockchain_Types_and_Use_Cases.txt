@@ -1,0 +1,58 @@
+SURVEY REPORT: TYPES OF BLOCKCHAINS AND THEIR REAL-TIME USE CASES
+
+1. INTRODUCTION
+Blockchain is a decentralized digital ledger technology used to store information securely. It records transactions in blocks connected using cryptography. Once data is recorded, it is difficult to modify.
+
+2. TYPES OF BLOCKCHAINS
+
+1. Public Blockchain
+- Open to everyone.
+- Anyone can participate in transactions.
+- Highly transparent and decentralized.
+- Examples: Bitcoin and Ethereum.
+- Use case: Cryptocurrency transactions.
+
+2. Private Blockchain
+- Controlled by a single organization.
+- Only authorized users can access it.
+- Provides privacy and faster transactions.
+- Example: Hyperledger Fabric.
+- Use case: Banking and company record management.
+
+3. Consortium Blockchain
+- Managed by multiple organizations.
+- Access is limited to selected members.
+- Supports collaboration between organizations.
+- Example: R3 Corda.
+- Use case: Supply chain management and interbank transactions.
+
+4. Hybrid Blockchain
+- Combines public and private blockchain features.
+- Some information is public, while sensitive data remains private.
+- Provides flexibility and privacy.
+- Example: Dragonchain.
+- Use case: Healthcare and government services.
+
+3. REAL-TIME USE CASES OF BLOCKCHAIN
+1. Banking: Secure money transfers and international payments.
+2. Healthcare: Secure storage and sharing of patient medical records.
+3. Supply Chain: Tracking products from manufacturers to customers.
+4. Education: Verification of certificates and academic records.
+5. Voting: Supporting secure and transparent digital voting systems.
+6. Real Estate: Managing property ownership records and transactions.
+7. Cryptocurrency: Digital payments using Bitcoin and Ethereum.
+8. Insurance: Automating claim processing using smart contracts.
+
+4. ADVANTAGES OF BLOCKCHAIN
+- High security.
+- Transparency.
+- Decentralization.
+- Reduced risk of fraud.
+- Better data management.
+- No central authority is required in decentralized systems.
+
+5. CONCLUSION
+Blockchain is an emerging technology that provides secure, transparent and reliable data management. Its applications in banking, healthcare, education and supply chains make it useful in many real-world situations.
+
+RESULT
+Studied the different types of blockchains and understood their real-time applications in various industries.
